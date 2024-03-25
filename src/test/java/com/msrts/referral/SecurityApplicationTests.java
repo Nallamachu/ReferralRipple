@@ -1,10 +1,10 @@
-package com.datasack.rps;
+package com.msrts.referral;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ReferralRippleApplicationTests {
+class SecurityApplicationTests {
 
 	@Test
 	void contextLoads() {
